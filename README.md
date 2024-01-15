@@ -16,11 +16,11 @@ I am an experienced Software Developer with expertise in design, installation, t
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=for-the-badge&logo=Vue.js)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=for-the-badge&logo=spring)&nbsp;\
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=for-the-badge&logo=markdown)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&logo=tailwindcss)\
+![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=for-the-badge&logo=tailwindcss)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap)\
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=for-the-badge&logo=docker)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;\
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=for-the-badge&logo=Figma)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop)&nbsp;
